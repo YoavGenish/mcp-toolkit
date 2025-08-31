@@ -1,4 +1,4 @@
-# MCP Lite
+# MCP Toolkit
 
 A lightweight, decorator-based Python library for implementing the Model Context Protocol (MCP). Transform your Python functions into MCP-compatible tools with minimal code.
 
@@ -13,7 +13,7 @@ A lightweight, decorator-based Python library for implementing the Model Context
 ## Installation
 
 ```bash
-pip install mcp-lite
+pip install mcp-toolkit
 ```
 
 ## Quick Start
