@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "mcp-lite"
+name = "mcp-toolkit"
 version = "0.1.0"
 description = "Lightweight decorator-based Model Context Protocol implementation for Python"
 authors = [{name = "trg", email = "trg@example.com"}]
@@ -25,9 +25,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/trg/mcp-lite"
-Repository = "https://github.com/trg/mcp-lite"
-Issues = "https://github.com/trg/mcp-lite/issues"
+Homepage = "https://github.com/trg/mcp-toolkit"
+Repository = "https://github.com/trg/mcp-toolkit"
+Issues = "https://github.com/trg/mcp-toolkit/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["mcp"]
